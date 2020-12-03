@@ -2,12 +2,7 @@
 
 ##Automatic Text Summarization
 
-Identifying and summarizing relevant information in a given document
-is a task that can help reduce the time required for acquiring and acting on
-new information. Accurate summaries can reduce reading time and per-
-sonalized summaries could help a reader better understand material they
-care about most. The work described in this project identies relevant
-recent advancements in the eld of Document Summarization.
+Identifying and summarizing relevant information in a given document is a task that can help reduce the time required for acquiring and acting on new information. Accurate summaries can reduce reading time and personalized summaries could help a reader better understand material they care about most. The work described in this project identities relevantrecent advancements in the field of Document Summarization.
 
 ## This project includes:
 
