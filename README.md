@@ -4,5 +4,5 @@ Automatic Text Summarization
 
 ## This project includes:
 
-- Get the probability based baseline written ✓
+- Code ✓
 - Report ✓
