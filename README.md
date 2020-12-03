@@ -1,6 +1,13 @@
 # Final Project Natural Language Processing
 
-Automatic Text Summarization
+##Automatic Text Summarization
+
+Identifying and summarizing relevant information in a given document
+is a task that can help reduce the time required for acquiring and acting on
+new information. Accurate summaries can reduce reading time and per-
+sonalized summaries could help a reader better understand material they
+care about most. The work described in this project identies relevant
+recent advancements in the eld of Document Summarization.
 
 ## This project includes:
 
